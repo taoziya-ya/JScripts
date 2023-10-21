@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 tvg-logo="null" group-title="自定义",米娅
+http://192.168.68.2:35455/huya/136482
+#EXTINF:-1 tvg-logo="null" group-title="自定义",许诺
+http://192.168.68.2:35455/huya/74612
+#EXTINF:-1 tvg-logo="null" group-title="自定义",猫和老鼠
+http://192.168.68.2:35455/huya/11352879
+#EXTINF:-1 tvg-logo="null" group-title="自定义",风箫
+http://192.168.68.2:35455/huya/126176
+#EXTINF:-1 tvg-logo="null" group-title="自定义",KPL职业联赛
+http://192.168.68.2:35455/huya/660002
+#EXTINF:-1 tvg-logo="null" group-title="自定义",张大仙
+http://192.168.68.2:35455/huya/688
+#EXTINF:-1 tvg-logo="null" group-title="自定义",托马斯CzH
+http://192.168.68.2:35455/huya/20641
+#EXTINF:-1 tvg-logo="null" group-title="自定义",周星驰
+http://192.168.68.2:35455/huya/11342412
+#EXTINF:-1 tvg-logo="null" group-title="自定义",狄仁杰
+http://192.168.68.2:35455/huya/618917
+#EXTINF:-1 tvg-logo="null" group-title="自定义",斗鱼4K电影
+http://192.168.68.2:35455/douyu/9249162
+#EXTINF:-1 tvg-logo="null" group-title="自定义",MrGemini
+http://192.168.68.2:35455/douyu/36252
+#EXTINF:-1 tvg-logo="null" group-title="自定义",DL丶拖米
+http://192.168.68.2:35455/douyu/793400
+#EXTINF:-1 tvg-logo="null" group-title="自定义",呆妹儿小霸王
+http://192.168.68.2:35455/douyu/2947432
+#EXTINF:-1 tvg-logo="null" group-title="自定义",不2不叫周淑怡
+http://192.168.68.2:35455/douyu/290935
+#EXTINF:-1 tvg-logo="null" group-title="自定义",王雨檬呀
+http://192.168.68.2:35455/douyu/139277
+#EXTINF:-1 tvg-logo="null" group-title="自定义",落幕
+http://192.168.68.2:35455/douyu/9756096
+#EXTINF:-1 tvg-logo="null" group-title="自定义",骆歆冲冲冲
+http://192.168.68.2:35455/douyu/5189167
